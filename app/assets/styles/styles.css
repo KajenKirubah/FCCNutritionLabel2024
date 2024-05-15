@@ -1,3 +1,11 @@
 @import './base/_global.css';
 @import './modules/_label.css';
 @import './modules/_divider.css';
+@import './modules/_bold.css';
+@import './modules/_large.css';
+@import './modules/_small-text.css';
+@import './modules/_calories-info.css';
+@import './modules/_left-container.css';
+@import './modules/_medium.css';
+@import './modules/_right.css';
+@import './modules/_indent.css';

@@ -11,11 +11,22 @@ body {
 }
 
 h1 {
-    font-weight: 800;
     text-align: center;
     margin: -4px 0;
+    letter-spacing: 0.15px;
 }
 
 p {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.large, .medium {
+    background-color: black;
+    border: 0;
+}
+
+.calories-info h2 {
     margin: 0;
 }
